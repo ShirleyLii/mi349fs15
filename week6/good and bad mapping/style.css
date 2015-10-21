@@ -1,0 +1,23 @@
+
+body{
+  text-align: center;
+  margin: 0 auto;
+  border-left: 200px solid #fff;
+  border-right: 200px solid #fff;
+  border-top: 20px solid #fff;
+  color:black;
+  height: 100%;
+}
+
+
+.main{
+
+  margin:  auto;
+  background: white;
+  border-top: 0px solid #ccc;
+  height: 100%;
+}
+
+html{
+  height: 100%;
+}
