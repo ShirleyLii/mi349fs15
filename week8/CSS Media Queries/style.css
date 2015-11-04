@@ -1,0 +1,27 @@
+.column{
+  float: left;
+  margin: 0 auto;
+  background: white;
+  color:purple;
+  width: 33 %;
+  border: 1px solid red;
+
+}
+
+@media(min-width: 1200px){
+  .column{
+    width: 33%;
+  }
+}
+
+@media(min-width: 800px) and (max-width: 1199px){
+  .column{
+    width: 45%;
+  }
+}
+
+@media(min-width: 400px) and (max-width: px){
+  .column{
+    width: 100%;
+  }
+}
