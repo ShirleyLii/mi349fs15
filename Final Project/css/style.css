@@ -1,0 +1,16 @@
+h1 {
+    color: pink;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-family: courier;
+    font-size: 110%;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
